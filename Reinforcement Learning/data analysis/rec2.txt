@@ -1,0 +1,168 @@
+Player1: 
+net player - temp:0
+Player2: 
+net player - temp:0
+result: p1 wins 25, p2 wins 25, p1 win rate 0.5
+
+
+Player1: 
+net player - temp:0
+Player2: 
+net player - temp:1
+result: p1 wins 40, p2 wins 10, p1 win rate 0.8
+
+
+Player1: 
+net player - temp:0
+Player2: 
+net player - temp:0
+result: p1 wins 25, p2 wins 25, p1 win rate 0.5
+
+
+Player1: 
+net player - temp:0
+Player2: 
+net player - temp:1
+result: p1 wins 34, p2 wins 16, p1 win rate 0.68
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:0
+Player2: 
+net player - temp:1
+result: p1 wins 48, p2 wins 2, p1 win rate 0.96
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:1.0
+Player2: 
+net player - temp:0
+result: p1 wins 26, p2 wins 24, p1 win rate 0.52
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:0
+Player2: 
+net player - temp:0
+result: p1 wins 47, p2 wins 3, p1 win rate 0.94
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:0
+Player2: 
+net player - temp:1
+result: p1 wins 46, p2 wins 4, p1 win rate 0.92
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:1.0
+Player2: 
+net player - temp:1
+result: p1 wins 34, p2 wins 16, p1 win rate 0.68
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:0
+Player2: 
+net player - temp:0
+result: p1 wins 47, p2 wins 3, p1 win rate 0.94
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:1.0
+Player2: 
+net player - temp:0
+result: p1 wins 30, p2 wins 20, p1 win rate 0.6
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:1.0
+Player2: 
+net player - temp:1
+result: p1 wins 40, p2 wins 10, p1 win rate 0.8
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:0
+Player2: 
+net player - temp:0
+result: p1 wins 47, p2 wins 3, p1 win rate 0.94
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:1.0
+Player2: 
+net player - temp:0
+result: p1 wins 40, p2 wins 10, p1 win rate 0.8
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:0
+Player2: 
+net player - temp:0
+result: p1 wins 47, p2 wins 3, p1 win rate 0.94
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:0
+Player2: 
+net player - temp:1
+result: p1 wins 47, p2 wins 3, p1 win rate 0.94
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:1.0
+Player2: 
+net player - temp:1
+result: p1 wins 33, p2 wins 17, p1 win rate 0.66
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:0
+Player2: 
+net player - temp:1
+result: p1 wins 49, p2 wins 1, p1 win rate 0.98
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:1.0
+Player2: 
+net player - temp:1
+result: p1 wins 38, p2 wins 12, p1 win rate 0.76
+
+
+Player1: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:1.0
+Player2: 
+net player - temp:0
+result: p1 wins 33, p2 wins 17, p1 win rate 0.66
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+net player - temp:0
+result: p1 wins 35, p2 wins 15, p1 win rate 0.7
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+net player - temp:1
+result: p1 wins 43, p2 wins 7, p1 win rate 0.86
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+net player - temp:0
+result: p1 wins 34, p2 wins 16, p1 win rate 0.68
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+net player - temp:1
+result: p1 wins 41, p2 wins 9, p1 win rate 0.82
+
+

@@ -1,0 +1,138 @@
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+Player2: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:0
+result: p1 wins 28, p2 wins 12, p1 win rate 0.7
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+Player2: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:1.0
+result: p1 wins 34, p2 wins 6, p1 win rate 0.85
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+Player2: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:1.0
+result: p1 wins 38, p2 wins 2, p1 win rate 0.95
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+Player2: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:0
+result: p1 wins 34, p2 wins 6, p1 win rate 0.85
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+Player2: 
+alpha beta player - depth:4
+result: p1 wins 30, p2 wins 10, p1 win rate 0.75
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+Player2: 
+alpha beta player - depth:2
+result: p1 wins 35, p2 wins 5, p1 win rate 0.875
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+alpha beta player - depth:4
+result: p1 wins 35, p2 wins 5, p1 win rate 0.875
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+Player2: 
+random player
+result: p1 wins 40, p2 wins 0, p1 win rate 1.0
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+random player
+result: p1 wins 40, p2 wins 0, p1 win rate 1.0
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+alpha beta player - depth:2
+result: p1 wins 35, p2 wins 5, p1 win rate 0.875
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+Player2: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+result: p1 wins 18, p2 wins 22, p1 win rate 0.45
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+Player2: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+result: p1 wins 24, p2 wins 16, p1 win rate 0.6
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+alpha beta player - depth:6
+result: p1 wins 28, p2 wins 12, p1 win rate 0.7
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:1.0
+result: p1 wins 30, p2 wins 10, p1 win rate 0.75
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:0
+result: p1 wins 15, p2 wins 25, p1 win rate 0.375
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+MCTS player - numMCTSSims:50, cpuct:1.0, temp:0
+result: p1 wins 18, p2 wins 22, p1 win rate 0.45
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+result: p1 wins 16, p2 wins 24, p1 win rate 0.4
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+result: p1 wins 10, p2 wins 30, p1 win rate 0.25
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:0
+Player2: 
+alpha beta player - depth:6
+result: p1 wins 31, p2 wins 9, p1 win rate 0.775
+
+
+Player1: 
+MCTS player - numMCTSSims:100, cpuct:1.0, temp:1
+Player2: 
+MCTS player - numMCTSSims:50, cpuct:1.5, temp:1.0
+result: p1 wins 23, p2 wins 17, p1 win rate 0.575
